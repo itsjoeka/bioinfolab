@@ -1,1 +1,1 @@
-# bioinfolab
+# CHEAT SCRIPTS FOR BIOINFORMATICS
